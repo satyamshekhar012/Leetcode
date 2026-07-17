@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/satyamshekhar012/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/satyamshekhar012/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1314-matrix-block-sum](https://github.com/satyamshekhar012/Leetcode/tree/master/1314-matrix-block-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/satyamshekhar012/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamshekhar012/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -14,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/satyamshekhar012/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/satyamshekhar012/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1314-matrix-block-sum](https://github.com/satyamshekhar012/Leetcode/tree/master/1314-matrix-block-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/satyamshekhar012/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/satyamshekhar012/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/satyamshekhar012/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -25,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/satyamshekhar012/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satyamshekhar012/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamshekhar012/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/satyamshekhar012/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satyamshekhar012/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamshekhar012/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -44,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamshekhar012/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/satyamshekhar012/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/satyamshekhar012/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/satyamshekhar012/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
