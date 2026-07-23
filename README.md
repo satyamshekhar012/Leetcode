@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/satyamshekhar012/Leetcode/tree/master/0567-permutation-in-string) |
+| [0680-valid-palindrome-ii](https://github.com/satyamshekhar012/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamshekhar012/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/satyamshekhar012/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/satyamshekhar012/Leetcode/tree/master/0567-permutation-in-string) |
+| [0680-valid-palindrome-ii](https://github.com/satyamshekhar012/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/satyamshekhar012/Leetcode/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/satyamshekhar012/Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
