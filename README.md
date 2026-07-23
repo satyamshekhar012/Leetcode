@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyamshekhar012/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0567-permutation-in-string](https://github.com/satyamshekhar012/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/satyamshekhar012/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamshekhar012/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyamshekhar012/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyamshekhar012/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satyamshekhar012/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/satyamshekhar012/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/satyamshekhar012/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/satyamshekhar012/Leetcode/tree/master/0680-valid-palindrome-ii) |
