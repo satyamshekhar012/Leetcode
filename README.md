@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/satyamshekhar012/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/satyamshekhar012/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/satyamshekhar012/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/satyamshekhar012/Leetcode/tree/master/0704-binary-search) |
 | [1314-matrix-block-sum](https://github.com/satyamshekhar012/Leetcode/tree/master/1314-matrix-block-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/satyamshekhar012/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satyamshekhar012/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/satyamshekhar012/Leetcode/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/satyamshekhar012/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
